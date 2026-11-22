@@ -25,8 +25,7 @@ Project/
     ├── rules.md
     ├── project.md
     ├── structure.md
-    ├── styles.md
-    └── tech-stack.md
+    └── styles.md
 
 
 This section must be updated whenever project files or directories are added, removed, renamed, or moved.
